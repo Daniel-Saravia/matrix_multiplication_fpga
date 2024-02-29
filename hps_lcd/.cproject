@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?fileVersion 4.0.0?><cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
+    	
+    <storageModule moduleId="org.eclipse.cdt.core.settings">
+        		
+        <cconfiguration id="com.arm.eclipse.cdt.managedbuild.ds5.gcc.toolchain.base.var.gcc-4.8.3-aarch64-linux-gnu.1336661878">
+            			
+            <storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="com.arm.eclipse.cdt.managedbuild.ds5.gcc.toolchain.base.var.gcc-4.8.3-aarch64-linux-gnu.1336661878" moduleId="org.eclipse.cdt.core.settings" name="Default">
+                				
+                <externalSettings/>
+                				
+                <extensions>
+                    					
+                    <extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+                    					
+                    <extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+                    					
+                    <extension id="org.eclipse.cdt.core.GmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+                    					
+                    <extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+                    					
+                    <extension id="org.eclipse.cdt.core.CWDLocator" point="org.eclipse.cdt.core.ErrorParser"/>
+                    					
+                    <extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+                    				
+                </extensions>
+                			
+            </storageModule>
+            			
+            <storageModule moduleId="cdtBuildSystem" version="4.0.0">
+                				
+                <configuration buildProperties="" description="" id="com.arm.eclipse.cdt.managedbuild.ds5.gcc.toolchain.base.var.gcc-4.8.3-aarch64-linux-gnu.1336661878" name="Default" parent="org.eclipse.cdt.build.core.emptycfg">
+                    					
+                    <folderInfo id="com.arm.eclipse.cdt.managedbuild.ds5.gcc.toolchain.base.var.gcc-4.8.3-aarch64-linux-gnu.1336661878.387899509" name="/" resourcePath="">
+                        						
+                        <toolChain id="com.arm.eclipse.cdt.managedbuild.ds5.gcc.toolchain.base.var.gcc-4.8.3-aarch64-linux-gnu.1478599052" name="GCC 4.8.3 [aarch64-linux-gnu]" superClass="com.arm.eclipse.cdt.managedbuild.ds5.gcc.toolchain.base.var.gcc-4.8.3-aarch64-linux-gnu">
+                            							
+                            <targetPlatform archList="all" binaryParser="org.eclipse.cdt.core.ELF" id="com.arm.eclipse.cdt.managedbuild.ds5.gcc.target.platform.base.1043716489" name="%target" osList="linux" superClass="com.arm.eclipse.cdt.managedbuild.ds5.gcc.target.platform.base"/>
+                            							
+                            <builder id="com.arm.eclipse.cdt.managedbuild.ds5.gcc.target.builder.1908808142" keepEnvironmentInBuildfile="false" managedBuildOn="false" name="Gnu Make Builder" superClass="com.arm.eclipse.cdt.managedbuild.ds5.gcc.target.builder"/>
+                            							
+                            <tool id="com.arm.eclipse.cdt.managedbuild.ds5.gcc.tool.c.compiler.base.var.gcc-4.8.3-aarch64-linux-gnu.571130531" name="GCC C Compiler 4.8.3 [aarch64-linux-gnu]" superClass="com.arm.eclipse.cdt.managedbuild.ds5.gcc.tool.c.compiler.base.var.gcc-4.8.3-aarch64-linux-gnu">
+                                								
+                                <inputType id="com.arm.eclipse.cdt.managedbuild.ds5.gcc.tool.c.compiler.base.input.985370733" superClass="com.arm.eclipse.cdt.managedbuild.ds5.gcc.tool.c.compiler.base.input"/>
+                                							
+                            </tool>
+                            							
+                            <tool id="com.arm.eclipse.cdt.managedbuild.ds5.gcc.tool.cpp.compiler.base.var.gcc-4.8.3-aarch64-linux-gnu.333184269" name="GCC C++ Compiler 4.8.3 [aarch64-linux-gnu]" superClass="com.arm.eclipse.cdt.managedbuild.ds5.gcc.tool.cpp.compiler.base.var.gcc-4.8.3-aarch64-linux-gnu">
+                                								
+                                <inputType id="com.arm.eclipse.cdt.managedbuild.ds5.gcc.tool.cpp.compiler.base.input.1110558966" superClass="com.arm.eclipse.cdt.managedbuild.ds5.gcc.tool.cpp.compiler.base.input"/>
+                                							
+                            </tool>
+                            							
+                            <tool id="com.arm.eclipse.cdt.managedbuild.ds5.gcc.tool.assembler.base.var.gcc-4.8.3-aarch64-linux-gnu.1129998448" name="GCC Assembler 4.8.3 [aarch64-linux-gnu]" superClass="com.arm.eclipse.cdt.managedbuild.ds5.gcc.tool.assembler.base.var.gcc-4.8.3-aarch64-linux-gnu">
+                                								
+                                <inputType id="cdt.managedbuild.tool.gnu.assembler.input.1422591636" superClass="cdt.managedbuild.tool.gnu.assembler.input"/>
+                                								
+                                <inputType id="com.arm.managedbuilder.gcc.inputType.1534372546" superClass="com.arm.managedbuilder.gcc.inputType"/>
+                                							
+                            </tool>
+                            							
+                            <tool id="com.arm.eclipse.cdt.managedbuild.ds5.gcc.tool.c.linker.base.var.gcc-4.8.3-aarch64-linux-gnu.1638065661" name="GCC C Linker 4.8.3 [aarch64-linux-gnu]" superClass="com.arm.eclipse.cdt.managedbuild.ds5.gcc.tool.c.linker.base.var.gcc-4.8.3-aarch64-linux-gnu"/>
+                            							
+                            <tool id="com.arm.eclipse.cdt.managedbuild.ds5.gcc.tool.cpp.linker.base.var.gcc-4.8.3-aarch64-linux-gnu.1986826745" name="GCC C++ Linker 4.8.3 [aarch64-linux-gnu]" superClass="com.arm.eclipse.cdt.managedbuild.ds5.gcc.tool.cpp.linker.base.var.gcc-4.8.3-aarch64-linux-gnu">
+                                								
+                                <inputType id="cdt.managedbuild.tool.gnu.cpp.linker.input.1081646403" superClass="cdt.managedbuild.tool.gnu.cpp.linker.input">
+                                    									
+                                    <additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
+                                    									
+                                    <additionalInput kind="additionalinput" paths="$(LIBS)"/>
+                                    								
+                                </inputType>
+                                							
+                            </tool>
+                            							
+                            <tool id="com.arm.eclipse.cdt.managedbuild.ds5.gcc.tool.archiver.base.var.gcc-4.8.3-aarch64-linux-gnu.885091831" name="GCC Archiver 4.8.3 [aarch64-linux-gnu]" superClass="com.arm.eclipse.cdt.managedbuild.ds5.gcc.tool.archiver.base.var.gcc-4.8.3-aarch64-linux-gnu"/>
+                            						
+                        </toolChain>
+                        					
+                    </folderInfo>
+                    				
+                </configuration>
+                			
+            </storageModule>
+            			
+            <storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+            		
+        </cconfiguration>
+        	
+    </storageModule>
+    	
+    <storageModule moduleId="cdtBuildSystem" version="4.0.0">
+        		
+        <project id="Old.null.2064724708" name="Old"/>
+        	
+    </storageModule>
+    	
+    <storageModule moduleId="scannerConfiguration">
+        		
+        <autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+        	
+    </storageModule>
+    	
+    <storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
+    	
+    <storageModule moduleId="refreshScope"/>
+    
+</cproject>
